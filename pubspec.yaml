@@ -49,6 +49,7 @@ flutter:
     - assets/java_design-pats.png
     - assets/kotlin.png
     - assets/logo.png
+    - assets/backdoor.jpg
 
 
   # An image asset can refer to one or more resolution-specific "variants", see
